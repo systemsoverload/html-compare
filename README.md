@@ -1,6 +1,6 @@
 # html-compare
 
-Python library for comparing HTML snippets. Ported from Django internal testing utilities [here](https://github.com/django/django/blob/main/django/test/html.py).
+Python library for comparing HTML snippets. Intentionally lacking any external dependencies. Ported from Django internal testing utilities [here](https://github.com/django/django/blob/main/django/test/html.py).
 
 
 ## Usage

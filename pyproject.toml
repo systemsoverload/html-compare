@@ -1,9 +1,9 @@
 [project]
-name = "html-compare"
+name = "python-html-compare"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python library for comparing HTML snippets"
 authors = [
-    { name = "tjk", email = "tkells@atlassian.com" }
+    { name = "tjk", email = "tjkells@gmail.com" }
 ]
 dependencies = []
 readme = "README.md"
